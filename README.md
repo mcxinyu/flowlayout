@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/mcxinyu/flowlayout.svg)](https://jitpack.io/#mcxinyu/flowlayout)
 
 ```gradle
-implementation 'com.github.mcxinyu:flowlayout:1.0.1'
+implementation 'com.github.mcxinyu:flowlayout:${jitpack_version}'
 ```
 
 ```java
