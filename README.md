@@ -1,5 +1,7 @@
 # flowlayout
 
+[![](https://jitpack.io/v/mcxinyu/flowlayout.svg)](https://jitpack.io/#mcxinyu/flowlayout)
+
 ```
 /**
  * Horizontally lay out children until the row is filled and then moved to the next line. Call
